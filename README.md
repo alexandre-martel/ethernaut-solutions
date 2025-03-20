@@ -13,7 +13,16 @@ These writeups can be useful for:
 
 ## 📂 Repository Structure
 Each challenge level is documented in a dedicated file with the following format:
-writeups/ ├── Level_X_Name.md # Writeup for level X ├── Level_Y_Name.md # Writeup for level Y ...
+
+# Writeup for level X 
+
+writeups/ ├── Level_X_Name.md 
+
+# Writeup for level Y ...
+
+├── Level_Y_Name.md 
+
+
 
 Each writeup includes:
 - A **level overview** (goal and smart contract code)
