@@ -15,9 +15,10 @@ These writeups can be useful for:
 Each challenge level is documented in a dedicated file with the following format:
 
 writeups/ 
-├── Level_X_Name.md 
 
-├── Level_Y_Name.md 
+   ├── Level_X_Name.md 
+
+   ├── Level_Y_Name.md 
 
 
 
