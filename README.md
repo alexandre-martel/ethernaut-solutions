@@ -14,12 +14,8 @@ These writeups can be useful for:
 ## 📂 Repository Structure
 Each challenge level is documented in a dedicated file with the following format:
 
-# Writeup for level X 
-
-writeups/ ├── Level_X_Name.md 
-
-# Writeup for level Y ...
-
+writeups/ 
+├── Level_X_Name.md 
 ├── Level_Y_Name.md 
 
 
