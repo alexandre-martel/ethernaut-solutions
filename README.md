@@ -35,3 +35,11 @@ To reproduce the exploits or test the solutions, you will need:
    git clone https://github.com/your-user/ethernaut-writeups.git
    cd ethernaut-writeups
    ```
+2. Explore the different levels and their solutions in the writeups/ folder.
+3. If you want to try an exploit, use Remix or Hardhat to deploy and test the contract.
+
+## ⚠️ Disclaimer
+These writeups are for educational purposes only.
+Exploiting vulnerabilities in production smart contracts is illegal and unethical.
+
+If this repo helped you, feel free to star ⭐ it on GitHub and contribute! 🚀
